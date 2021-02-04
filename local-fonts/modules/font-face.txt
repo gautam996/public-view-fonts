@@ -1,0 +1,4 @@
+@font-face {
+  font-family: "[%FONT_NAME%]";
+  src: url("./fonts/[%FONT_NAME%][%FONT_TYPE%]");
+}
